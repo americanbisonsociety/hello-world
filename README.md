@@ -1,2 +1,3 @@
 # hello-world
-just a bison learning how to code
+Just a bison learning how to code.
+ Hard to do with hooves...
